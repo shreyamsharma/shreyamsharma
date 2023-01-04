@@ -3,7 +3,7 @@
 
 Hello! My name is Shreya and I am a software engineer currently studying at Ontario Tech University. I am in my final year of study and am excited to graduate and begin my career in the tech industry. In my time at university, I have gained valuable experience through coursework and projects, and have developed a strong passion for creating innovative software solutions. I am eager to use my skills and knowledge to make a positive impact in the field
 
-L
+
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)

@@ -17,5 +17,4 @@ Hello! My name is Shreya and I am a software engineer currently studying at Onta
 
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/IAAC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC)
+

@@ -1,8 +1,7 @@
 
 # Hello! Welcome to my GitHub page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello! My name is Shreya and I am a software engineer currently studying at Ontario Tech University. I am in my final year of study and am excited to graduate and begin my career in the tech industry. In my time at university, I have gained valuable experience through coursework and projects, and have developed a strong passion for creating innovative software solutions. I am eager to use my skills and knowledge to make a positive impact in the field
-
+Hello! My name is Shreya and I am an experienced software engineering professional with a Bachelor's degree in Software Engineering from Ontario Tech University. Currently a software developer at Scotiabank, where I specialize in crafting customer-centric platforms and ensuring web accessibility standards. Certified in Microsoft Azure Fundamentals, I thrive in dynamic environments, adapting swiftly while maintaining focus on organizational goals. Eager to leverage my diverse skill set and collaborative spirit to drive impactful solutions as a valuable member of your team.
 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
